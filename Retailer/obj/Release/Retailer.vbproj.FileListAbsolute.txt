@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\bin\Release\Retailer.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\bin\Release\Retailer.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\bin\Release\Retailer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\obj\Release\Retailer.LoginAccess.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\obj\Release\Retailer.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\obj\Release\Retailer.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\obj\Release\Retailer.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\obj\Release\Retailer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Retailer\Retailer\obj\Release\Retailer.pdb
