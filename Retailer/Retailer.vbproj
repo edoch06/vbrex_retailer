@@ -71,6 +71,10 @@
       <DependentUpon>BaAddClass.vb</DependentUpon>
     </Compile>
     <Compile Include="BaAddClass.vb" />
+    <Compile Include="BaAddColor.Designer.vb">
+      <DependentUpon>BaAddColor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaAddColor.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -90,6 +94,10 @@
   <ItemGroup>
     <EmbeddedResource Include="BaAddClass.resx">
       <DependentUpon>BaAddClass.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaAddColor.resx">
+      <DependentUpon>BaAddColor.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">

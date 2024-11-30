@@ -66,3 +66,7 @@ C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\bin\Debu
 C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.exe
 C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.xml
 C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddClass.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.vbproj.GenerateResource.Cache
