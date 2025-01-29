@@ -79,6 +79,10 @@
       <DependentUpon>BaAddDept.vb</DependentUpon>
     </Compile>
     <Compile Include="BaAddDept.vb" />
+    <Compile Include="BaAddSize.Designer.vb">
+      <DependentUpon>BaAddSize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaAddSize.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -106,6 +110,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BaAddDept.resx">
       <DependentUpon>BaAddDept.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaAddSize.resx">
+      <DependentUpon>BaAddSize.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
