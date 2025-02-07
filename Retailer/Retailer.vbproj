@@ -91,6 +91,10 @@
       <DependentUpon>BaAddSupp.vb</DependentUpon>
     </Compile>
     <Compile Include="BaAddSupp.vb" />
+    <Compile Include="BaAddTax.Designer.vb">
+      <DependentUpon>BaAddTax.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BaAddTax.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -130,6 +134,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BaAddSupp.resx">
       <DependentUpon>BaAddSupp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaAddTax.resx">
+      <DependentUpon>BaAddTax.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
