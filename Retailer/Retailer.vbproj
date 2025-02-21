@@ -99,6 +99,10 @@
       <DependentUpon>BaAddUoM.vb</DependentUpon>
     </Compile>
     <Compile Include="BaAddUoM.vb" />
+    <Compile Include="Backend.Designer.vb">
+      <DependentUpon>Backend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Backend.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -146,6 +150,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BaAddUoM.resx">
       <DependentUpon>BaAddUoM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backend.resx">
+      <DependentUpon>Backend.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">

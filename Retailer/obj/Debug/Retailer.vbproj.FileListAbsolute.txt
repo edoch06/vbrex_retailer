@@ -70,3 +70,10 @@ C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debu
 C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddClass.resources
 C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.Resources.resources
 C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddColor.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddDept.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddSize.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddStyle.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddSupp.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddTax.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Retailer_\Retailer\obj\Debug\Retailer.BaAddUoM.resources
